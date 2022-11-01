@@ -1,2 +1,2 @@
-build/*
-.vscode
+exercises/*/*/build/*
+exercises/*/*/.vscode
