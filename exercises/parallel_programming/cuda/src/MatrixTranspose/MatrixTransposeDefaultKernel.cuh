@@ -1,0 +1,1 @@
+__global__ void MatrixTransposeDefault(float* d_matrix, float* d_matrix_result, int width, int height);

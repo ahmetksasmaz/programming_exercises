@@ -3,6 +3,8 @@
 ## Exercises
 ### Parallel Programming
 #### CUDA
+##### PrintCudaDeviceProperties
+##### MatrixTransposeDefault
 ### Scientific Programming
 
 ## Question Bank

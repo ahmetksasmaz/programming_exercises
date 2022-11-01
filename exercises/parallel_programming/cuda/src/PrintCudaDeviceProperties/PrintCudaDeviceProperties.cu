@@ -2,10 +2,10 @@
 
 int main(){
     
-    int numberOfCudaDevices;
-    cudaGetDeviceCount(&numberOfCudaDevices);
+    int number_of_cuda_devices;
+    cudaGetDeviceCount(&number_of_cuda_devices);
 
-    for(int i = 0; i < numberOfCudaDevices; i++){
+    for(int i = 0; i < number_of_cuda_devices; i++){
         cudaDeviceProp prop;
         cudaGetDeviceProperties(&prop, i);
         std::cout << "Device number : " << i << std::endl;
