@@ -2,6 +2,7 @@
 
 ## Exercises
 ### Parallel Programming
+#### CUDA
 ### Scientific Programming
 
 ## Question Bank
