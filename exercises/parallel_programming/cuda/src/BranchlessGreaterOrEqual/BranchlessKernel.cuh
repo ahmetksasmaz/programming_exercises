@@ -1,0 +1,1 @@
+__global__ void BranchlessKernel(float* d_1, float* d_2, float* d_result, long size);
